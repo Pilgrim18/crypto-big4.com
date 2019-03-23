@@ -40,14 +40,18 @@ Independent and innovative audit service could imrove the situation. Similar to 
 #### Current auditing practice for crypto businesses
 
 * Big4 already announced or did some crypto-related audit engagements. So did Baker Tilly, Grant Thornton and BDO as well. Usually it was confirmation of account balances or collaterals for certain date, rarely - complete financial statements audit. Winklevoss’ Gemini passed SOC-1 audit by Deloitte recently.
+
 * The opposite leg of audit offerings spectrum - code review, smart-contract audits and deeper security tests. This done by dozens of narrow-focused groups or relatively young firms. To name Red4Sec, Kudelsky Security, Smartdec, FP complete, White Hat Group and others. These niche and narrow-focused audit service providers are potential partners for our integrated audit offering.
+
 **There are no signals of existing a more comprehensive audit services, including risk based internal control over assets and data.**
 
 
 ### The opportinity
 
 * Crypto businesses considered high-risky by banks, big auditors and other institutional organizations. Often crypto businesses even couldn’t pass onboarding compliance procedures, unable obtain bank account. 
+
 * At the same time there are number of successful crypto businesses, which are ready to get audited by independent professional body. Demand for such auditing services is growing, yet not too many suppliers on the market available.
+
 * The opportunity is to seed and grow up the integrated auditing service, which is technically capable to render audit services of high professional quality for crypto businesses. Smaller (startup) auditing service might have bigger risks appetites, yet keeping the auditing ethics and principles in place.
 
 ### The concept
@@ -64,7 +68,9 @@ We want to build proffesional audit practice. That will include,
     * Identify opportunities for blockchain applications and tools in audit process  
 
 2. Early practice in limited scope or agreed upon audit procedures with recommendations for clients
+
 3. Build a team of professionals with unique experience and knowledge
+
 4. Build audit business and be a reputative pioneers in industry
 
 ### The team
