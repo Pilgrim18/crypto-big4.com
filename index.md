@@ -5,19 +5,18 @@
 Digital assets and blockchain technology (open networks)
 become part of our digital world rapidly. For the last 10 years the industry has grown in numbers! around the world. Recent price decrease (-90%) due to overspeculation and market manipulation is not change the trends. It's not a fault of technology, it's a falut of our understanding how to adopt and use it.
 
-**x33** developers
-**>100k** projects  
-**$5 bln** total investments
-**30** mln users
-**XXX** lines of codes added to protocols
-**hundreds** exchnages
-**thousands** tokens (defenetly, most of them are shitcoins)
-**several bln USD** daily trading volume (need to be audited and proved)
-###### sources:
+
+|                    | 2019     | 2017     |  2016| 
+| ------------------ | -------- | -------- | -----|
+| MarketCap, $bln    | 125     | 18        | 7    |
+| Number users, mln  | 35      | 25        |  7   |
+| 24H Trading Volume, $bln | 12| 0.16      | 0.04 |
+
 
 The market is not limited by blockhcian tech, ICOs and cryptocurrencies, new wave is coming from:
 * Security Tokens, Non-Fungible Tokens, Stablecoins and DeFi (decentralized finance)
 * Institutional players
+* Protocol upgrades (segwit, lighting network, sidechains, etc)
 * and non-financial services
 
 Regulation is being developed and matured, thus standards and best practise to be established. 
