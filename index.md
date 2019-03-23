@@ -3,24 +3,23 @@
 
 ### Crypto market overview
 Digital assets and blockchain technology (open networks)
-become part of our digital world rapidly. For the last 10 years the industry has grown in numbers! around the world. Recent price decrease (-90%) due to overspeculation and market manipulation is not change the trends. It's not a fault of technology, it's a falut of our understanding how to adopt and use it.
+became part of our digital world rapidly. For the last 10 years the industry has grown in numbers! Recent price decrease in 2018 for 90% due to overspeculation and market manipulation won't kill the industry. It's not a fault of technology, it's a falut of our understanding how to adopt and use it.
 
 
-|                    | 2019     | 2017     |  2016| 
-| ------------------ | -------- | -------- | -----|
-| MarketCap, $bln    | 125     | 18        | 7    |
-| Number users, mln  | 35      | 25        |  7   |
-| 24H Trading Volume, $bln | 12| 0.16      | 0.04 |
+|                          | 2019     | 2017      |  2016| 
+| ------------------------ | -------- | --------- | -----|
+| MarketCap, $bln          | 125      | 18        | 7    |
+| Number users, mln        | 35       | 25        |  7   |
+| 24H Trading Volume, $bln | 12       | 0.16      | 0.04 |
 
 
 The market is not limited by blockhcian tech, ICOs and cryptocurrencies, new wave is coming from:
 * Security Tokens, Non-Fungible Tokens, Stablecoins and DeFi (decentralized finance)
 * Institutional players
 * Protocol upgrades (segwit, lighting network, sidechains, etc)
-* and non-financial services
+* and non-financial services 
 
 Regulation is being developed and matured, thus standards and best practise to be established. 
-
 
 ### The problem definition
 There is **lack of trust** towards crypto-business due to number of resons. Crypto business usually is a startup with no or poor management practice over key risks associated with use of digital assets. Crypto business very often remains risky to deal with for external stakeholders like banks, non-crypto  businesses, auditors and professional firms. In addition crypto business often considered with money laundering and other criminal activities.
@@ -79,4 +78,5 @@ Eugenii Fedorchenko [Linkedin Profile](https://)
 Andrii Dubetsky [Linkedin Profile](https://www.linkedin.com/in/andriidubetsky/)
 
 ### Call to action
+
 
