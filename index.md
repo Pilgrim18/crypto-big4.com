@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Crypto Big4
+###### The Concept of Integrated audit over finance, security & controls
 
-You can use the [editor on GitHub](https://github.com/Pilgrim18/crypto-big4.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Crypto market overview
+Digital assets and blockchain technology (open networks)
+become part of our digital world rapidly. For the last 10 years the industry has grown in numbers! around the world, despite recent price decrease (-90%) due to overspeculation and market manipulation. It's not a fault of technology, it's a falut of our understanding how to adopt and use it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[xxx] of developers
+**>100k** of projects 
+**$5 bln** investments
+**30** mln users
+**XXX** lines of codes added to protocols
+**hundreds** exchnages
+**thousands** tokens (defenetly, most of them are shitcoins)
+**several bln USD** daily trading volume (need to be audited and proved)
+###### sources:
 
-### Markdown
+The market is not limited by blockhcian tech, ICOs and cryptocurrencies, new wave is coming from:
+* Security Tokens, Non-Fungible Tokens, Stablecoins and DeFi (decentralized finance)
+* Institutional players
+* and non-financial services
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Regulation is being developed and matured, thus standards and best practise to be established. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### The problem definition
+There is **lack of trust** towards crypto-business due to number of resons. Crypto business usually is a startup with no or poor management practice over key risks associated with use of digital assets. Crypto business very often remains risky to deal with for external stakeholders like banks, non-crypto  businesses, auditors and professional firms. In addition crypto business often considered with money laundering and other criminal activities.
+**Huge hacker revenues** over the years add to fears and superstititions of crypto users. Big hacks means poor security management or unfair management intentions.
+Internal unfair or **abusive trading** trading practices with crypto assets as well as non-audited public reporting of exchanges.
+ 
 
-- Bulleted
-- List
+### The solution is..
 
-1. Numbered
-2. List
+Independent and innovative audit service could imrove the situation.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### The concept
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pilgrim18/crypto-big4.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### The team
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Call to action
