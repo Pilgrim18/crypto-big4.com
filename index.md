@@ -69,17 +69,19 @@ Independent and innovative audit service could imrove the situation. Similar to 
 We want to build proffesional audit practice. That will include,
 
 1. To undertake 6-8 month research and development engagement aimed to:
-    * Development of audit approach and framework for audit of crypto businesses
-    * Development of generic risk and controls map for crypto businesses
-    * Identify standards and best practices, which are applicable to crypto businesses to comply with and adjust their application to crypto businesses specifics
-    * Learn existing regulation and external requirements (i.e. GDPR, AML)
-    * Identify opportunities for automated audit aid tools and technologies
-    * Develop adherence to audit ethics and principles adjusted to crypto realities
-    * Develop independence and reputation principles as well as own KYC/compliance criteria
-    * Identify opportunities for blockchain applications and tools in audit process  
+- Development of audit approach and framework for audit of crypto businesses
+- Development of generic risk and controls map for crypto businesses
+- Identify standards and best practices, which are applicable to crypto businesses to comply with and adjust their application to crypto businesses specifics
+- Learn existing regulation and external requirements (i.e. GDPR, AML)
+- Identify opportunities for automated audit aid tools and technologies
+- Develop adherence to audit ethics and principles adjusted to crypto realities
+- Develop independence and reputation principles as well as own KYC/compliance criteria
+- Identify opportunities for blockchain applications and tools in audit process  
 
 2. Early practice in limited scope or agreed upon audit procedures with recommendations for clients
+
 3. Build a team of professionals with unique experience and knowledge
+
 4. Build audit business and be a reputative pioneers in industry
 
 
