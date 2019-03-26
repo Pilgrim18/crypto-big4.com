@@ -87,12 +87,13 @@ We are going to build proffesional audit practice focused on crypto businesses. 
 
 ### The team
 
+We are professinals from various domains (accounting, technology, risk management, governance, invesnment banking, cybecsecurity) yet united under the common passion about transformative power of distributed crypto technologies!    
 
-Sergey Bondarenko [Linkedin Profile](https://www.linkedin.com/in/sbondarenko/)
+Sergey Bondarenko [Linkedin Profile](https://www.linkedin.com/in/sbondarenko)
 
-Dmitrii Budorin [Linkedin Profile](https://)
+Dmitrii Budorin [Linkedin Profile](https://www.linkedin.com/in/dmitriy-budorin-acca-56a98035)
 
-Eugenii Fedorchenko [Linkedin Profile](https://)
+Eugenii Fedorchenko [Linkedin Profile](https://www.linkedin.com/in/eugene-fedorchenko-ll-m-99169121)
 
 Andrii Dubetsky [Linkedin Profile](https://www.linkedin.com/in/andriidubetsky/)
 
